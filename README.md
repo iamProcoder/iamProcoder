@@ -22,6 +22,7 @@ architectures and how these architectures communicate with Message Broker system
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23563D7C?style=for-the-badge&logo=redux&logoColor=white&color=blueviolet)
+![MobX](https://img.shields.io/badge/MobX-F16A1D?style=for-the-badge&logo=mobx&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23563D7C?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +34,7 @@ architectures and how these architectures communicate with Message Broker system
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23563D7C?style=for-the-badge&logo=node.js&logoColor=white&color=green)
 ![Graphql](https://img.shields.io/badge/Graphql-%23563D7C?style=for-the-badge&logo=graphql&logoColor=white&color=ff69b4)
 ![Docker](https://img.shields.io/badge/Docker-%23563D7C?style=for-the-badge&logo=docker&logoColor=white&color=informational)
-![Redis](https://img.shields.io/badge/Redis-f51100?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-9a1717?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F16A1D?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 

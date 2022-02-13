@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/FM06"><img src="https://api.daily.dev/devcards/df9fb7a1375b4c098d432499ba488e2d.png?r=gep" width="400" style="max-width: 100%;float: right;" alt="Faruk Mintas's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/iamFaruk"><img src="https://api.daily.dev/devcards/df9fb7a1375b4c098d432499ba488e2d.png?r=023" width="400" style="max-width: 100%;float: right;" alt="Faruk Mintas's Dev Card"/></a></p>
 
 <h1 align="left">Hi there, I'm Faruk 
   <img src = "https://media.giphy.com/media/LRTBWcCRJcIAwvNqSH/giphy.gif" width = 30px align="center" />  

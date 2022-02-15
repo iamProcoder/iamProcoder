@@ -13,7 +13,7 @@ architectures and how these architectures communicate with Message Broker system
 </p>
 </h3>
 <p align="left">
-  <h2>Connect to me</h2>
+  <h2>Connect with me</h2>
   <a href="https://www.linkedin.com/in/faruk-minta%C5%9F-271003220604151113/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" height="25" /></a></a>
 </p>
 

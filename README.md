@@ -13,11 +13,13 @@ architectures and how these architectures communicate with Message Broker system
 </p>
 </h3>
 
+![](https://visitcount.itsvg.in/api?id=iamProcoder&label=Profile%20Views&color=3&icon=1&pretty=false)
+
 ## 📦 NPM Packages Published by Me
-![npm](https://img.shields.io/npm/dt/reactjs-responsive-menubar?label=reactjs-responsive-menubar&style=plastic)
+[![npm](https://img.shields.io/npm/dt/reactjs-responsive-menubar?label=reactjs-responsive-menubar&style=?style=for-the-badge&logo=appveyor)](https://www.npmjs.com/package/reactjs-responsive-menubar)
 
 <p align="left">
-  <h2>feel free to connect with me</h2>
+  <h2>Feel Free to Connect With Me</h2>
   <a href="https://www.linkedin.com/in/faruk-minta%C5%9F-271003220604151113/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" height="25" /></a></a>
 </p>
 
@@ -42,14 +44,11 @@ architectures and how these architectures communicate with Message Broker system
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F16A1D?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
-<h3>My GitHub Stats :chart_with_upwards_trend:</h3>
-<p ><details>
-<summary>:bulb: Github Stats</summary>
+## My GitHub Stats :chart_with_upwards_trend: 
+
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=iamProcoder&theme=tokyonight"/>
 
-</details>
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamProcoder&langs_count=10&theme=tokyonight&layout=compact" alt="iamProcoder :: Top Langs" />
-</details></p>
 
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamProcoder&langs_count=10&theme=tokyonight&layout=compact" alt="iamProcoder :: Top Langs" />

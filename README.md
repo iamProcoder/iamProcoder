@@ -1,8 +1,8 @@
 <p align="center"><a href="https://app.daily.dev/iamFaruk"><img src="https://api.daily.dev/devcards/df9fb7a1375b4c098d432499ba488e2d.png?r=023" width="400" style="max-width: 100%;float: right;" alt="Faruk Mintas's Dev Card"/></a></p>
 
 <h1 align="left">Hi there, I'm Faruk 
-  <img src = "https://media.giphy.com/media/LRTBWcCRJcIAwvNqSH/giphy.gif" width = 30px align="center" />  
-  I Like Coding  <img src = "https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width = 50px align="center" /></h1>
+  <img src="https://media.giphy.com/media/LRTBWcCRJcIAwvNqSH/giphy.gif" width="30" align="center" />  
+  I Like Coding  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" align="center" /></h1>
 <h3 align="left"> 
  
   <p>I have been working as a software developer for 12+ years. I have been involved in various projects. I've been working as a Full Stack Developer using Javascript technologies recently.
@@ -23,7 +23,7 @@ architectures and how these architectures communicate with Message Broker system
   <a href="https://www.linkedin.com/in/faruk-minta%C5%9F-271003220604151113/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" height="25" /></a></a>
 </p>
 
-<h2 align='left'> Tech I Use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px/> </h2>
+<h2 align='left'> Tech I Use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="27"/> </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

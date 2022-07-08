@@ -14,6 +14,7 @@ architectures and how these architectures communicate with Message Broker system
 </h3>
 
 ![](https://visitcount.itsvg.in/api?id=iamProcoder&label=Profile%20Views&color=3&icon=1&pretty=false)
+![](https://komarev.com/ghpvc/?username=iamProcoder&color=green)
 
 ## 📦 NPM Packages Published by Me
 [![npm](https://img.shields.io/npm/dt/reactjs-responsive-menubar?label=reactjs-responsive-menubar&style=?style=for-the-badge&logo=appveyor)](https://www.npmjs.com/package/reactjs-responsive-menubar)

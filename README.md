@@ -13,7 +13,7 @@ architectures and how these architectures communicate with Message Broker system
 </p>
 </h3>
 
-![](https://visitcount.itsvg.in/api?id=iamProcoder&label=Profile%20Views&color=3&icon=1&pretty=false)
+
 ![](https://komarev.com/ghpvc/?username=iamProcoder&color=green)
 
 ## 📦 NPM Packages Published by Me

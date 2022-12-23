@@ -47,6 +47,8 @@ architectures and how these architectures communicate with Message Broker system
 ![dotnetCore](https://img.shields.io/badge/core-%23563D7C?style=for-the-badge&logo=dotnet&logoColor=white&color=blueviolet)
 ![mssqlserver](https://img.shields.io/badge/mssqlserver-%FECC00?style=for-the-badge&logo=microsoftsqlserver&logoColor=black&color=FECC00)
 ![oracle](https://img.shields.io/badge/oracle-%FF0000?style=for-the-badge&logo=oracle&logoColor=white&color=FF0000)
+![sass](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%ff69b4)
+![styledcomponents](https://img.shields.io/badge/styledcomponents-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=ff69b4)
 
 
 ## My GitHub Stats :chart_with_upwards_trend: 

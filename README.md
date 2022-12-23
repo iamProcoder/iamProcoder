@@ -49,6 +49,8 @@ architectures and how these architectures communicate with Message Broker system
 ![oracle](https://img.shields.io/badge/oracle-%FF0000?style=for-the-badge&logo=oracle&logoColor=white&color=FF0000)
 ![sass](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%ff69b4)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=ff69b4)
+![babel](https://img.shields.io/badge/babel-%FECC00?style=for-the-badge&logo=babel&logoColor=black&color=FECC00)
+![webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%ff69b4)
 
 
 ## My GitHub Stats :chart_with_upwards_trend: 

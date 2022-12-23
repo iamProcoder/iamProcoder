@@ -5,7 +5,7 @@
   I Like Coding  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" align="center" /></h1>
 <h3 align="left"> 
  
-  <p>I have been working as a software developer for 12+ years. I have been involved in various projects (dotNet & Javascript). I've been working as a Full Stack Developer using Javascript technologies recently.
+  <p>I have been working as a software developer for 12+ years. I have been involved in various projects ( dotNet & Javascript ). I've been working as a Full Stack Developer using Javascript technologies recently.
 ( Node.JS - GraphQL - React.JS )</p>
 <p>
 I also like to manage Front-End and Back-End applications using Docker and I am also interested in Microservice

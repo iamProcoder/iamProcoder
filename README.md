@@ -5,7 +5,7 @@
   I Like Coding  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" align="center" /></h1>
 <h3 align="left"> 
  
-  <p>I have been working as a software developer for 12+ years. I have been involved in various projects. I've been working as a Full Stack Developer using Javascript technologies recently.
+  <p>I have been working as a software developer for 12+ years. I have been involved in various projects (dotNet & Javascript). I've been working as a Full Stack Developer using Javascript technologies recently.
 ( Node.JS - GraphQL - React.JS )</p>
 <p>
 I also like to manage Front-End and Back-End applications using Docker and I am also interested in Microservice
@@ -17,7 +17,7 @@ architectures and how these architectures communicate with Message Broker system
 ![](https://komarev.com/ghpvc/?username=iamProcoder&color=green)
 
 ## 📦 NPM Packages Published by Me
-[![npm](https://img.shields.io/npm/dt/reactjs-responsive-menubar?label=reactjs-responsive-menubar&style=?style=for-the-badge&logo=appveyor)](https://www.npmjs.com/package/reactjs-responsive-menubar)
+[![npm](https://img.shields.io/npm/dt/reactjs-responsive-menubar?label=reactjs-responsive-menubar&style=?style=for-the-badge&logo=react)](https://www.npmjs.com/package/reactjs-responsive-menubar)
 
 <p align="left">
   <h2>Feel Free to Connect With Me</h2>
@@ -43,6 +43,10 @@ architectures and how these architectures communicate with Message Broker system
 ![Docker](https://img.shields.io/badge/Docker-%23563D7C?style=for-the-badge&logo=docker&logoColor=white&color=informational)
 ![Redis](https://img.shields.io/badge/Redis-9a1717?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F16A1D?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23563D7C?style=for-the-badge&logo=csharp&logoColor=white)
+![dotnetCore](https://img.shields.io/badge/core-%23563D7C?style=for-the-badge&logo=dotnet&logoColor=white&color=blueviolet)
+![mssqlserver](https://img.shields.io/badge/mssqlserver-%FECC00?style=for-the-badge&logo=microsoftsqlserver&logoColor=black&color=FECC00)
+![oracle](https://img.shields.io/badge/oracle-%FF0000?style=for-the-badge&logo=oracle&logoColor=white&color=FF0000)
 
 
 ## My GitHub Stats :chart_with_upwards_trend: 

@@ -55,8 +55,8 @@ architectures and how these architectures communicate with Message Broker system
 ## My GitHub Stats :chart_with_upwards_trend: 
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=iamProcoder&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamProcoder&theme=tokyonight"/>
 
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamProcoder&show_icons=true&theme=radical&locale=en&layout=compact" alt="iamProcoder :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamProcoder&langs_count=10&theme=tokyonight&layout=compact" alt="iamProcoder :: Top Langs" />

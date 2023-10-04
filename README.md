@@ -31,6 +31,7 @@ architectures and how these architectures communicate with Message Broker system
 ![Redux](https://img.shields.io/badge/Redux-%23563D7C?style=for-the-badge&logo=redux&logoColor=white&color=blueviolet)
 ![MobX](https://img.shields.io/badge/MobX-F16A1D?style=for-the-badge&logo=mobx&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23563D7C?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![NextJS](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
